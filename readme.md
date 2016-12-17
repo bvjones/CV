@@ -2,6 +2,8 @@ Ben Vaughan-Jones
 
 A former Operations Manager in retail turned software developer with the help of Makers Academy. Finally fulfilling a lifelong ambition to be a software engineer.
 
+About to start a 12 week intensive course with Makers Academy.
+
 Looking for a junior position/graduate scheme to develop further and continue improving.
 
 Technical Skills
@@ -9,8 +11,10 @@ Technical Skills
 - Command line
 
 Skill
-
-Organised
+- Logical thinker - Being a former Operations manager, having to use logic on a daily basis to solve problems.
+- Inquisitive - Asks a lot of questions to gain an understanding of things I don't know.
+- Organised - Used to being very structured and working methodically through challenges and problems.
+- Communication - Very good communication skills due to working in large teams with a lot of stakeholders.
 
 Bilingual
 First language Welsh speaker, fluent in both Welsh and English.
@@ -20,15 +24,14 @@ Achievements
 Evidence
 Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
 I achieved A during my work at B (job, or otherwise)
 I contributed to the growth of X while doing Y (job, or otherwise)
 I built this, made this, broke this, fixed this, etc.
 A link to some on-line evidence (blogs, videos, articles, etc.)
+
 Education
 
-Makers Academy (start_date to end_date)
+Makers Academy (January 2017 - March 2017)
 
 Curiosity and hungry passion for code
 Independent learner and problem-solver
@@ -36,7 +39,6 @@ OOP, TDD, SOLID, MVC, DDD
 Software Craftsmanship
 Ruby, Rails, Javascript, Node.js, Angular.js
 Rspec, Jasmine, Mocha
-Your University / College (start_date to end_date)
 
 Foundation Degree in Applied Computing
 Glyndwr University
