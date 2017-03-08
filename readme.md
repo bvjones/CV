@@ -7,12 +7,14 @@ Full stack junior developer, recently completed 12 weeks [Makers Academy](http:/
 Currently looking to get stuck in to my tech career in London, where I can add to my current knowledge and in full stack development.
 
 <h3>Projects</h3>
-<h4>[Makersbnb](https://mpbr-makersbnb.herokuapp.com/spaces)</h4>
+<h4>Makersbnb</h4>
+[Makersbnb app](https://mpbr-makersbnb.herokuapp.com/spaces)
 ><b>Description</b> - An AirBnB clone driven by a TDD approach using various technologies.      
 <b>Technologies Used</b> - Ruby, Javascript, Heroku, Sinatra, HTML, Sass, RSpec.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Makersbnb
 
-<h4>[Steami](https://steami.herokuapp.com/)</h4>
+<h4>Steami</h4>
+[Steami app](https://steami.herokuapp.com/)
 ><b>Description</b> - We created a single page web app that utilises Steam API calls and returns Steam account infromation. We used the full MERN stack to achieve this.
 <b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Steami
@@ -56,6 +58,6 @@ Ysgol Y Creuddyn
 - Video games
 - Skiing
 
-<h3>Contact
+<h3>Contact</h3>
 - Github: bvjones
 - [Codewars](https://www.codewars.com/users/bvjones)
