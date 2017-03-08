@@ -17,7 +17,7 @@ Currently looking to get stuck in to my tech career in London, where I can add t
 <b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Steami
 
-<h3>Skills
+<h3>Skills</h3>
 <br>
 - <b>Logical thinker</b> - Being a former Operations manager, having to use logic on a daily basis to solve problems.
 <br>
