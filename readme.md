@@ -20,7 +20,6 @@ Currently looking to get stuck in to my tech career in London, where I can add t
 <br><b>GitHub repository</b> - https://github.com/bvjones/Steami
 
 <h3>Skills</h3>
-<br>
 - <b>Logical thinker</b> - Being a former Operations manager, having to use logic on a daily basis to solve problems.
 <br>
 - <b>Inquisitive</b> - Asks a lot of questions to gain an understanding of things I don't know or fully understand.
