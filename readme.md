@@ -16,7 +16,7 @@ Currently looking to get stuck in to my tech career in London, where I can add t
 <h4>Steami</h4>
 [Steami app](https://steami.herokuapp.com/)
 ><b>Description</b> - We created a single page web app that utilises Steam API calls and returns Steam account infromation. We used the full MERN stack to achieve this.
-<b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb.
+<br><b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Steami
 
 <h3>Skills</h3>
