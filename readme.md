@@ -1,10 +1,10 @@
 Ben Vaughan-Jones
 ==================
-A former Operations Manager in retail turned software developer with the help of Makers Academy. Finally fulfilling a lifelong ambition to be a software engineer.
+A former Operations Manager in retail turned software developer with the help of Makers Academy. Finally fulfilling a lifelong ambition to be a software engineer. Currently looking to get stuck in to my tech career in London, where I can add to my current knowledge and in full stack development.
 
-Full stack junior developer, recently completed 12 weeks [Makers Academy](http://www.makersacademy.com/) bootcamp.
+I would contribute passion for code mixed with good software craftmanship principles that I developed during my time at Makers Academy. In addition to the hard skills I developed at Makers Academy, I also bring enthusiasm, a good team player who doesn't mind getting stuck in when required and a personality that naturally makes people feel comfortable.
 
-Currently looking to get stuck in to my tech career in London, where I can add to my current knowledge and in full stack development.
+Full stack junior developer, recently completed 16 weeks [Makers Academy](http://www.makersacademy.com/) bootcamp.
 
 <h3>Projects</h3>
 <h4>Makersbnb</h4>
