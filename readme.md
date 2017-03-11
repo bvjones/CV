@@ -34,8 +34,8 @@ Full stack junior developer, recently completed 16 weeks [Makers Academy](http:/
 First language Welsh speaker, fluent in both Welsh and English.
 
 <h3>Experience</h3>
-The White Company (November 2014 - December 2016
-Operations Store Manager
+<u>Operations Store Manager</u><br>
+The White Company (November 2014 - December 2016)<br>
 Dealing with all operational aspects of running a large flagship store. I was a part of the store opening management team in charge of ensuring a smooth opening and setting up new store processes.
 
 <h3>Education</h3>
@@ -58,5 +58,6 @@ Ysgol Y Creuddyn
 - Skiing
 
 <h3>Contact</h3>
-- Github: bvjones
 - [Codewars](https://www.codewars.com/users/bvjones)
+- [LinkedIn](https://www.linkedin.com/in/ben-vaughan-jones-36690746/)
+- [Github](https://github.com/bvjones)
