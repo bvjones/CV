@@ -1,8 +1,8 @@
 Ben Vaughan-Jones
 ==================
-A former Operations Manager in retail turned software developer with the help of Makers Academy. Finally fulfilling a lifelong ambition to be a software engineer. Currently looking to get stuck in to my tech career in London, where I can add to my current knowledge and in full stack development.
+A former Operations Manager in retail turned software developer with the help of Makers Academy. Finally fulfilling a lifelong ambition to be a software engineer. Currently looking to get stuck in to my tech career in London, where I can add to my current knowledge in full stack development.
 
-I would contribute passion for code mixed with good software craftmanship principles that I developed during my time at Makers Academy. In addition to the hard skills I developed at Makers Academy, I also bring enthusiasm, a good team player who doesn't mind getting stuck in when required and a personality that naturally makes people feel comfortable.
+I would contribute to a team, passion for code mixed with good software craftmanship principles that I developed during my time at Makers Academy. In addition to the hard skills I developed at Makers Academy, I also bring enthusiasm, I'm a good team player who doesn't mind getting stuck in when required and a personality that naturally makes people feel comfortable.
 
 Full stack junior developer, recently completed 16 weeks [Makers Academy](http://www.makersacademy.com/) bootcamp.
 
@@ -10,13 +10,13 @@ Full stack junior developer, recently completed 16 weeks [Makers Academy](http:/
 <h4>Makersbnb</h4>
 [Makersbnb app](https://mpbr-makersbnb.herokuapp.com/spaces)
 ><b>Description</b> - An AirBnB clone driven by a TDD approach using various technologies.      
-<b>Technologies Used</b> - Ruby, Javascript, Heroku, Sinatra, HTML, Sass, RSpec.
+<b>Technologies Used</b> - Ruby, Javascript, Heroku, Sinatra, HTML, Sass, RSpec, Bootstrap.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Makersbnb
 
 <h4>Steami</h4>
 [Steami app](https://steami.herokuapp.com/)
-><b>Description</b> - We created a single page web app that utilises Steam API calls and returns Steam account infromation. We used the full MERN stack to achieve this.
-<br><b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb.
+><b>Description</b> - We created a single page web app that utilises Steam API calls and returns Steam account information. We used the full MERN stack to achieve this.
+<br><b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb, Bootstrap.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Steami
 
 <h3>Skills</h3>
