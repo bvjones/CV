@@ -7,17 +7,22 @@ I would contribute to a team, passion for code mixed with good software craftman
 Full stack junior developer, recently completed 16 weeks [Makers Academy](http://www.makersacademy.com) bootcamp.
 
 <h3>Projects</h3>
-<h4>Makersbnb</h4>
+
+###Pixos
+[Pixos](https://pixos.herokuapp.com/)
+
+###Steami
+Steami App - https://steami.herokuapp.com
+> <b>Description</b> - We created a single page web app that utilises Steam API calls and returns Steam account information. We used the full MERN stack to achieve this.
+<br><b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb, Bootstrap.
+<br><b>GitHub repository</b> - https://github.com/bvjones/Steami
+
+###Makersbnb
 [Makersbnb app](https://mpbr-makersbnb.herokuapp.com/spaces)
-><b>Description</b> - An AirBnB clone driven by a TDD approach using various technologies.      
+> <b>Description</b> - An AirBnB clone driven by a TDD approach using various technologies.      
 <b>Technologies Used</b> - Ruby, Javascript, Heroku, Sinatra, HTML, Sass, RSpec, Bootstrap.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Makersbnb
 
-<h4>Steami</h4>
-[Steami app](https://steami.herokuapp.com)
-><b>Description</b> - We created a single page web app that utilises Steam API calls and returns Steam account information. We used the full MERN stack to achieve this.
-<br><b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb, Bootstrap.
-<br><b>GitHub repository</b> - https://github.com/bvjones/Steami
 
 <h3>Skills</h3>
 - <b>Logical thinker</b> - Being a former Operations manager, having to use logic on a daily basis to solve problems.
