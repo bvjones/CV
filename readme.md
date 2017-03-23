@@ -10,8 +10,8 @@ Full stack junior developer, recently completed 16 weeks [Makers Academy](http:/
 
 ### Pixos
 [Pixos Demo](https://pixos.herokuapp.com/)
-> <b>Description</b> - Our final project centered around creating a game with new technologies that included Redux and Socket.io. We expanded on a MERN stack to achieve this.
-<br><b>Technologies used</b> - Node.js, React.js, Redux, Socket.io, Webpack, Express, Enzyme, Mongodb, Bootstrap and Material-UI.
+> <b>Description</b> - Our final project centered around creating a turn based strategy card game with new technologies. These technologies included a full MERN stack, Redux and Socket.io. 
+<br><b>Technologies used</b> - Mongodb, Express, React.js, Node.js, Redux, Socket.io, Webpack,  Enzyme,  Bootstrap and Material-UI.
 <br><b>GitHub repository</b> - https://github.com/bvjones/pixos
 
 
