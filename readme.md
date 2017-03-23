@@ -8,16 +8,16 @@ Full stack junior developer, recently completed 16 weeks [Makers Academy](http:/
 
 <h3>Projects</h3>
 
-###Pixos
+### Pixos
 [Pixos](https://pixos.herokuapp.com/)
 
-###Steami
-Steami App - https://steami.herokuapp.com
+### Steami
+[Steami](https://steami.herokuapp.com)
 > <b>Description</b> - We created a single page web app that utilises Steam API calls and returns Steam account information. We used the full MERN stack to achieve this.
 <br><b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb, Bootstrap.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Steami
 
-###Makersbnb
+### Makersbnb
 [Makersbnb app](https://mpbr-makersbnb.herokuapp.com/spaces)
 > <b>Description</b> - An AirBnB clone driven by a TDD approach using various technologies.      
 <b>Technologies Used</b> - Ruby, Javascript, Heroku, Sinatra, HTML, Sass, RSpec, Bootstrap.
