@@ -10,11 +10,15 @@ Full stack junior developer, recently completed 16 weeks [Makers Academy](http:/
 
 ### Pixos
 [Pixos](https://pixos.herokuapp.com/)
+> <b>Description</b> - Our final project centered around creating a game with new technologies that included Redux and Socket.io. We expanded on a MERN stack to achieve this.
+<br><b>Technologies used</b> - Node.js, React.js, Redux, Socket.io, Webpack, Express, Enzyme, Mongodb, Bootstrap and Material-UI.
+<br><b>GitHub repository</b> - https://github.com/bvjones/final-project
+
 
 ### Steami
 [Steami](https://steami.herokuapp.com)
 > <b>Description</b> - We created a single page web app that utilises Steam API calls and returns Steam account information. We used the full MERN stack to achieve this.
-<br><b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb, Bootstrap.
+<br><b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb and Bootstrap.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Steami
 
 ### Makersbnb
