@@ -68,7 +68,7 @@ Ysgol Y Creuddyn
 
 <h3>Contact</h3>
 <ul>
-<li>[Codewars](https://www.codewars.com/users/bvjones)
-<li>[LinkedIn](https://www.linkedin.com/in/ben-vaughan-jones-36690746)
-<li>[Github](https://github.com/bvjones)
+<li>Codewars - https://www.codewars.com/users/bvjones
+<li>LinkedIn - https://www.linkedin.com/in/ben-vaughan-jones-36690746
+<li>Github - https://github.com/bvjones
 </ul>
