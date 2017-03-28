@@ -29,15 +29,14 @@ Full stack junior developer, recently completed 16 weeks [Makers Academy](http:/
 
 
 <h3>Skills</h3>
-- <b>Logical thinker</b> - Being a former Operations manager, having to use logic on a daily basis to solve problems.
-<br>
-- <b>Inquisitive</b> - Asks a lot of questions to gain an understanding of things I don't know or fully understand.
-<br>
-- <b>Organised</b> - Used to being very structured and working methodically through challenges and problems.
-<br>
-- <b>Communication</b> - Very good communication skills due to working in large teams.
-<br>
-- <b>Enthusiastic</b> - Always willing to get stuck in to a new challenge, regardless of how big or daunting.
+<ul>
+<li><b>Logical thinker</b> - Being a former Operations manager, having to use logic on a daily basis to solve problems.
+<li><b>Inquisitive</b> - Asks a lot of questions to gain an understanding of things I don't know or fully understand.
+<li><b>Organised</b> - Used to being very structured and working methodically through challenges and problems.
+<li><b>Communication</b> - Very good communication skills due to working in large teams.
+<li><b>Enthusiastic</b> - Always willing to get stuck in to a new challenge, regardless of how big or daunting.
+</ul>
+
 
 <h3>Bilingual</h3>
 First language Welsh speaker, fluent in both Welsh and English.
@@ -49,10 +48,7 @@ Dealing with all operational aspects of running a large flagship store. I was a 
 
 <h3>Education</h3>
 Makers Academy (January 2017 - March 2017)
-- Learning to learn new technologies and languages
-- Pair programming
-- Test driven development
-- Code craftmanship
+
 
 Foundation Degree in Applied Computing
 Glyndwr University
@@ -61,10 +57,12 @@ Glyndwr University
 Ysgol Y Creuddyn
 
 <h3>Hobbies</h3>
-- Badminton (team captain)<br>
-- Books<br>
-- Video games<br>
-- Skiing<br>
+<ul>
+<li>Badminton (team captain and committee member)
+<li>Books
+<li>Video games
+<li>Skiing
+</ul>
 
 <h3>Contact</h3>
 <ul>
