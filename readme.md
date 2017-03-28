@@ -48,7 +48,12 @@ Dealing with all operational aspects of running a large flagship store. I was a 
 
 <h3>Education</h3>
 Makers Academy (January 2017 - March 2017)
-
+<ul>
+<li>Learning full stack web development
+<li>Pair programming
+<li>Test driven development
+<li>Agile methodologies and XP values
+</ul>
 
 Foundation Degree in Applied Computing
 Glyndwr University
