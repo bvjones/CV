@@ -9,20 +9,20 @@ Full stack junior developer, recently completed 16 weeks [Makers Academy](http:/
 <h3>Projects</h3>
 
 ### Pixos
-[Pixos Demo](https://pixos.herokuapp.com/)
+[To play Pixos, click here](https://pixos.herokuapp.com/)
 > <b>Description</b> - Our final project centered around creating a turn based strategy card game with new technologies. These technologies included a full MERN stack, Redux and Socket.io.
 <br><b>Technologies used</b> - Mongodb, Express, React.js, Node.js, Redux, Socket.io, Webpack,  Enzyme,  Bootstrap and Material-UI.
 <br><b>GitHub repository</b> - https://github.com/bvjones/pixos
 
 
 ### Steami
-[Steami Demo](https://steami.herokuapp.com)
+[To try Steami, click here](https://steami.herokuapp.com)
 > <b>Description</b> - We created a single page web app that utilises Steam API calls and returns Steam account information. We used the full MERN stack to achieve this.
 <br><b>Technologies used</b> - Node.js, React.js, Express, Enzyme, Mongodb and Bootstrap.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Steami
 
 ### Makersbnb
-[Makersbnb Demo](https://mpbr-makersbnb.herokuapp.com/spaces)
+[To try Makersbnb, click here](https://mpbr-makersbnb.herokuapp.com/spaces)
 > <b>Description</b> - An AirBnB clone driven by a TDD approach using various technologies.      
 <b>Technologies Used</b> - Ruby, Javascript, Heroku, Sinatra, HTML, Sass, RSpec, Bootstrap.
 <br><b>GitHub repository</b> - https://github.com/bvjones/Makersbnb
