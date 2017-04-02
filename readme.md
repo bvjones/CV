@@ -56,7 +56,7 @@ Makers Academy (January 2017 - March 2017)
 </ul>
 
 Foundation Degree in Applied Computing<br>
-Glyndwr University
+Glyndwr University (2010 - 2012)
 <ul>
 <li>Object Oriented Programming using Java and C#
 <li>Object Oriented Design
