@@ -55,7 +55,7 @@ Makers Academy (January 2017 - March 2017)
 <li>Agile methodologies and XP values
 </ul>
 
-Foundation Degree in Applied Computing
+Foundation Degree in Applied Computing<br>
 Glyndwr University
 <ul>
 <li>Object Oriented Programming using Java and C#
@@ -77,7 +77,7 @@ Ysgol Y Creuddyn
 <li>Skiing
 </ul>
 
-<h3>Contact</h3>
+### Contact
 [Codewars](https://www.codewars.com/users/bvjones)
 [LinkedIn](https://www.linkedin.com/in/ben-vaughan-jones-36690746)
 [Github](https://github.com/bvjones)
