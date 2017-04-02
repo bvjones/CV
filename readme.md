@@ -8,7 +8,7 @@ Full stack junior developer, recently completed 16 weeks [Makers Academy](http:/
 
 <h3>Projects</h3>
 
-### Pixos
+#### <u>Pixos</u>
 [To play Pixos, click here](https://pixos.herokuapp.com/)
 > <b>Description</b> - Our final project centered around creating a turn based strategy card game with new technologies. These technologies included a full MERN stack, Redux and Socket.io.
 <br><b>Technologies used</b> - Mongodb, Express, React.js, Node.js, Redux, Socket.io, Webpack,  Enzyme,  Bootstrap and Material-UI.
@@ -46,7 +46,7 @@ First language Welsh speaker, fluent in both Welsh and English.
 The White Company (November 2014 - December 2016)<br>
 Dealing with all operational aspects of running a large flagship store. I was a part of the store opening management team in charge of ensuring a smooth opening and setting up new store processes.
 
-<h3>Education</h3>
+<h3>Achievements</h3>
 Makers Academy (January 2017 - March 2017)
 <ul>
 <li>Learning full stack web development
@@ -57,6 +57,14 @@ Makers Academy (January 2017 - March 2017)
 
 Foundation Degree in Applied Computing
 Glyndwr University
+<ul>
+<li>Object Oriented Programming using Java and C#
+<li>Object Oriented Design
+<li>Project Management
+<li>Database Design
+</ul>
+
+Udemy - [Learn Angular2](https://www.udemy.com/learn-angular-2-development-by-building-10-apps/learn/v4/content)
 
 4 A Levels and 12 GCSE
 Ysgol Y Creuddyn
