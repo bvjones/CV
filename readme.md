@@ -25,7 +25,7 @@ Full stack junior developer, recently completed 16 weeks [Makers Academy](http:/
 [To try Makersbnb, click here](https://mpbr-makersbnb.herokuapp.com/spaces)
 > <b>Description</b> - An AirBnB clone driven by a TDD approach using various technologies.      
 <b>Technologies Used</b> - Ruby, Javascript, Heroku, Sinatra, HTML, Sass, RSpec, Bootstrap.
-<br><b>GitHub repository</b> - https://github.com/bvjones/Makersbnb
+<br><b>(GitHub repository)[https://github.com/bvjones/Makersbnb]
 
 
 <h3>Skills</h3>
